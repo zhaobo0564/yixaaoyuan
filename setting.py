@@ -1,0 +1,21 @@
+USER_ID = {
+    "zhaobo":'1809040633398053',
+    'xietao':'1809272046553464',
+    "zhangyaning": "1812071101393674",
+    "liuyang": "1809202122406295",
+}
+UNTOKEN = {
+    'zhaobo':'AeuaeKL5oKGpZKVRhXPReZW3yhYtx1gC7p1LM2TpSZeQJgQsbz0wuxwA9VP+cqW5gVBNx5Xn+BAcOK0QqDLhAw==',
+    'xietao':'fJH9Zgq9kEOiKn81g7u0KMcGRMr79QAZ6qhHjfnU3UV+dKgcQNBHne1tZb+SLExk5JaYsxlsacGme1kK2FoMQQ==',
+    "zhangyaning":"pMfWgVEUnynp5rEfBMHQMbc3DKV08xnRoPQJvBnnWh7cSD1kqPpQ749rGRkSrJc/v5OM6VMDpX9Hg3hgjZJtbg==",
+    "liuyang": "Yeecpv5KOzxGZ7vF/7X/jyvbOqoYugGS9iyAZ1ZRSoItM9pGQ9pOOGwUDY6LbaKQ1lSTWkyTp9fUXVW0AWTtFQ==",
+}
+ADDRESS = '湖南省长沙市开福区洪山街道长沙大学学生处'
+LOGINSCHOOLID = '1809040633398053'
+LOGINSCHOOLCODE = '11077'
+LOGINSCHOOLNAME = '长沙学院'
+TEMPERATURE = '36.8'
+LOCATIONINFO = '湖南省长沙市开福区洪山街道长沙大学学生处'
+LONGITUDEANDLATITUDE = '113.02445524920613,28.24199034869951'
+
+
